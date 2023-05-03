@@ -1,0 +1,22 @@
+.heading {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.jumbotron {
+  padding: 3rem;
+  background-color: rgb(173, 181, 189);
+  border-radius: 1rem;
+  border: 0.1rem solid #fff;
+}
+
+button {
+  width: 100%;
+}
+
+.form-select {
+  cursor: pointer;
+}

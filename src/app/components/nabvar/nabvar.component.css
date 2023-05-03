@@ -1,0 +1,25 @@
+.title {
+  font-size: 1.2rem;
+}
+
+.title:hover {
+  color: rgba(34, 34, 34, 0.7);
+  cursor: pointer;
+}
+
+.social {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.icons a {
+  text-decoration: none;
+  color: rgba(33, 37, 41);
+  font-size: 25px;
+}
+
+.icons a:hover {
+  color: rgba(34, 34, 34, 0.7);
+}
+
